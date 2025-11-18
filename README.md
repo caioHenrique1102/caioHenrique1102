@@ -71,14 +71,3 @@ Sou extremamente dedicado, comunicativo e movido por desafios.
 - Arquitetura de sistemas e microserviços  
 - Organização, documentação e versionamento  
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Caio GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioHenrique1102&show_icons=true&theme=radical)
-
-![Caio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioHenrique1102&layout=compact&theme=radical)
-
-</div>
