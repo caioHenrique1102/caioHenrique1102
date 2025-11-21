@@ -23,7 +23,7 @@
 
 </p>
 
-<h1 align="center">🚀 Caio Henrique — Back End Developer em Formação</h1> 
+<h1 align="center">🚀 Caio Henrique — Back End Developer</h1> 
 <p align="center"> 
   <i>"Missão dada é missão cumprida."</i> 
 </p>
